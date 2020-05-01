@@ -4,8 +4,7 @@ class String
 
   def sentence?
    if "HI!".end_with?("!")
-   else "HI!"end_with?("!")
-  end
+   
   end
 
   def question?
